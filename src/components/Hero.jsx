@@ -14,7 +14,11 @@ function Hero() {
                             </p>
 
                             <p className="text-3xl text-gray-700 dark:text-white">
-                                Aspiring Web & <br />Full Stack Developer
+                                {/* Aspiring Web & <br />Full Stack Developer */}
+                                This webapp is a sample project 
+                                <br />
+                                Here is the original video <a href="https://www.youtube.com/watch?v=-u8SQCEe-dQ" className="text-primary">link</a>
+                                <br/> Credit to "The Coding Journey"
                             </p>
 
                             <p className="text-black/75 dark:text-white/70 text-center sm:text-left">
